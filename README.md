@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/typescript_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=typescript_basics&theme=gotham" />
 </a>
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/relicary/relicary)
