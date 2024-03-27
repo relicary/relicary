@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 -->
 
-| <a href="https://github.com/relicary/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> | <a href="https://github.com/relicary/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relicary&layout=compact&theme=gotham&hide_border=true" /></a> |
+| <a href="https://github.com/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> | <a href="https://github.com/relicary/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relicary&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
+### Top Repositories
 
 <a href="https://github.com/relicary/spring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring&theme=gotham" />
