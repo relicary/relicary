@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 
-| <a href="https://github.com/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> | <a href="https://github.com/relicary/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relicary&layout=compact&theme=gotham&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> | <a href="https://github.com/relicary/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relicary&layout=compact&theme=gotham&hide_border=true" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relicary&theme=gotham&hide_border=true" alt="relicary" /> |
+| ------------- | ------------- | ------------- |
 
 ### Top Repositories
 
@@ -36,5 +36,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=typescript_basics&theme=gotham" />
 </a>
 
+<p></p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/relicary/relicary)
