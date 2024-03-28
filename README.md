@@ -23,9 +23,10 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-
-| <a href="https://github.com/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> | <a href="https://github.com/relicary/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relicary&layout=compact&theme=gotham&hide_border=true" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relicary&theme=gotham&hide_border=true" alt="relicary" /> |
-| ------------- | ------------- | ------------- |
+| <a href="https://github.com/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> |
+| <a href="https://github.com/relicary/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relicary&layout=compact&theme=gotham&hide_border=true" /></a> | 
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relicary&theme=gotham&hide_border=true&layout=compact" alt="relicary" /> |
+| ------------- |
 
 ### Top Repositories
 
