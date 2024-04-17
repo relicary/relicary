@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/typescript_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=typescript_basics&theme=gotham" />
 </a>
+<a href="https://github.com/relicary/spring_basics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring_basics&theme=gotham" />
+</a>
 <a href="https://github.com/relicary/spring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring&theme=gotham" />
 </a>
