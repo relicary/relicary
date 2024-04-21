@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring_basics&theme=gotham" />
 </a>
 <a href="https://github.com/relicary/spring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring_boot_go&theme=gotham" />
 </a>
 
 <p></p>
