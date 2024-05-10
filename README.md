@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/angular_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=angular_basics&theme=gotham" />
 </a>
+<a href="https://github.com/relicary/gifs-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=gifs-app&theme=gotham" />
+</a>
 <a href="https://github.com/relicary/typescript_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=typescript_basics&theme=gotham" />
 </a>
