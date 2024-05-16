@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **relicary/relicary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+
 <p align="left">
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -28,7 +30,9 @@ Here are some ideas to get you started:
 | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relicary&theme=gotham&hide_border=true&layout=compact" alt="relicary" /> |
 | ------------- |
 
-### Top Repositories
+## Top Repositories
+
+### Angular
 
 <a href="https://github.com/relicary/angular_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=angular_basics&theme=gotham" />
@@ -36,9 +40,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/gifs-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=gifs-app&theme=gotham" />
 </a>
+<a href="https://github.com/relicary/superheroes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=superheroes&theme=gotham" />
+</a>
+
+### TypeScript
+
 <a href="https://github.com/relicary/typescript_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=typescript_basics&theme=gotham" />
 </a>
+
+### Spring
+
 <a href="https://github.com/relicary/spring_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring_basics&theme=gotham" />
 </a>
