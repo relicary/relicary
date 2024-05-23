@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,hibernate)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,jquery,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,ts,jquery,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure)](https://skillicons.dev)
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,maven,gradle,npm,idea,vscode,eclipse,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 
 | <a href="https://github.com/relicary"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relicary&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Relicary's github stats" /></a> |
