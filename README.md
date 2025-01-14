@@ -63,6 +63,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/spring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring_boot_go&theme=gotham" />
 </a>
+<a href="https://github.com/relicary/spring-6-reactive-mongo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=spring-6-reactive-mongo&theme=gotham" />
+</a>
 
 <p></p>
 
