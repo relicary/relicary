@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 ## Top Repositories
 
+### React
+
+<a href="https://github.com/relicary/counter-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=counter-app&theme=gotham" />
+</a>
+
 ### Angular
 
 <a href="https://github.com/relicary/angular_basics">
