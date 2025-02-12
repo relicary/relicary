@@ -43,6 +43,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=counter-app&theme=gotham" />
 </a>
 
+<a href="https://github.com/relicary/04-gif-expert-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=04-gif-expert-app&theme=gotham" />
+</a>
+
+
 ### Angular
 
 <a href="https://github.com/relicary/angular_basics">
