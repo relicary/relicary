@@ -37,24 +37,13 @@ Here are some ideas to get you started:
 
 ## Top Repositories
 
-### React
-
-<a href="https://github.com/relicary/counter-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=counter-app&theme=gotham" />
-</a>
-
-<a href="https://github.com/relicary/04-gif-expert-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=04-gif-expert-app&theme=gotham" />
-</a>
-
-
 ### Angular
 
 <a href="https://github.com/relicary/angular_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=angular_basics&theme=gotham" />
 </a>
-<a href="https://github.com/relicary/gifs-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=gifs-app&theme=gotham" />
+<a href="https://github.com/relicary/Gifs-App-02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=Gifs-App-02&theme=gotham" />
 </a>
 <a href="https://github.com/relicary/superheroes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=superheroes&theme=gotham" />
@@ -64,6 +53,16 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/relicary/typescript_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=typescript_basics&theme=gotham" />
+</a>
+
+### React
+
+<a href="https://github.com/relicary/counter-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=counter-app&theme=gotham" />
+</a>
+
+<a href="https://github.com/relicary/04-gif-expert-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=04-gif-expert-app&theme=gotham" />
 </a>
 
 ### Spring
