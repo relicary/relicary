@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 ### Angular
 
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
 <a href="https://github.com/relicary/angular_basics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=angular_basics&theme=gotham" />
 </a>
