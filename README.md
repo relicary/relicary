@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 
 ## Top Repositories
 
+### Angular 19
+
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+<a href="https://github.com/relicary/bases">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=bases&theme=gotham" />
+</a>
+
 ### Angular
 
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
