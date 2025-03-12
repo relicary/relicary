@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=spring,java,hibernate)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,js,ts,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,js,ts,jquery,bootstrap,tailwind)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure)](https://skillicons.dev)
 
