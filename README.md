@@ -44,6 +44,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/bases">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=bases&theme=gotham" />
 </a>
+<a href="https://github.com/relicary/gifs-app-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=gifs-app-19&theme=gotham" />
+</a>
+<a href="https://github.com/relicary/country-app-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=country-app-19&theme=gotham" />
+</a>
+<a href="https://github.com/relicary/pipes-app-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=pipes-app-19&theme=gotham" />
+</a>
 
 ### Angular
 
