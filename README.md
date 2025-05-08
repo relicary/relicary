@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/relicary/maps-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=maps-app&theme=gotham" />
 </a>
+<a href="https://github.com/relicary/relicary-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=relicary&repo=relicary-shop&theme=gotham" />
+</a>
 
 ### Angular
 
